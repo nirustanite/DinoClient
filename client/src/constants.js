@@ -1,0 +1,1 @@
+export const basePath="/home/nirupamaa/Desktop/codaisseur/week-10/findmydino/imagesdino"
